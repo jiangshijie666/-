@@ -1,0 +1,18 @@
+//
+//  myConfig.pch
+//  XMLY
+//
+//  Created by 耿荣林 on 2018/7/9.
+//  Copyright © 2018年 耿荣林. All rights reserved.
+//
+
+#ifndef myConfig_pch
+#define myConfig_pch
+#import "UIImageView+WebCache.h"
+#import "CFRim.h"
+#import "BaseModel.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* myConfig_pch */
